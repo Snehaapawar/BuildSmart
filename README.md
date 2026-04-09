@@ -20,6 +20,13 @@ BuildSmart is a real-time construction management application designed to stream
 •⁠  ⁠SQLite for database 🗄️
 •⁠  ⁠Pandas for data analysis 📊
 
+#Demo Login Credentials:
+Username: manager
+Password: 123
+         Or 
+Username: admin
+Password: 123
+
 ## How to Run
 
 1.⁠ ⁠Clone the repository:
